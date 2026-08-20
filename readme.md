@@ -17,7 +17,7 @@
 Copy the loader script below and execute it in your preferred Roblox mobile executor (Delta, Hydrogen, Codex, Vega X, etc.):
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xizenyt/FXCHub/main/gameSuiter.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xizenyt/FXCHub/main/Loader.lua"))()
 ```
 ​<div align="center">
 
